@@ -65,7 +65,7 @@ export default function Home() {
         <ul className="list-disc pl-6 space-y-2">
           <li>📘 JavaScript Profesional - Platzi</li>
           <li>⚛️ React.js Avanzado - Platzi</li>
-          <li>🧩 Next.js y SSR - Platzi</li>
+          <li>🧩 Next.js - Nest js</li>
           <li>🎓 Maestría en Ingeniería en Matemáticas y Computación (en curso)</li>
         </ul>
       </section>
