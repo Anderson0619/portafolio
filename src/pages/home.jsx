@@ -76,7 +76,7 @@ export default function Home() {
           <h2 className="text-2xl font-semibold mb-4">Proyectos Destacados</h2>
           <div className="grid sm:grid-cols-2 gap-6">
             <a
-              href="https://github.com/Anderson0619/mi-proyecto-1"
+              //href="https://github.com/Anderson0619/mi-proyecto-1"
               target="_blank"
               rel="noreferrer"
               className="p-4 border rounded-lg hover:shadow-lg transition"
@@ -88,7 +88,7 @@ export default function Home() {
             </a>
 
             <a
-              href="https://github.com/Anderson0619/mi-proyecto-2"
+              //href="https://github.com/Anderson0619/mi-proyecto-2"
               target="_blank"
               rel="noreferrer"
               className="p-4 border rounded-lg hover:shadow-lg transition"
@@ -105,10 +105,10 @@ export default function Home() {
       {/* Contact Section */}
       <section className="py-10 text-center">
         <h2 className="text-2xl font-semibold mb-4">Contacto</h2>
-        <p className="mb-2">📧 andersonmera.dev@gmail.com</p>
+        <p className="mb-2">📧 ameramurillo869@gmail.com</p>
         <div className="flex justify-center gap-6 mt-4">
           <a
-            href="https://linkedin.com/in/andersonmera"
+            href="https://www.linkedin.com/in/anderson-mera-murillo-0655ba268/"
             target="_blank"
             rel="noreferrer"
             className="text-blue-600 hover:underline"
